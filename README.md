@@ -3,7 +3,7 @@
 ## Latihan JavaScrip 
 
 ![1.png](Gambar/1.png)
-![1_1.png](Gambar/1_1.png.png)
+![1_1.png](Gambar/1_1.png)
 
 
 ![2.png](Gambar/2.png)
@@ -32,6 +32,6 @@
 
 ![7.png](Gambar/7.png)
 ![7_7.png](Gambar/7_7.png)
-
+![7_7.png](Gambar/7_77.png)
 
 

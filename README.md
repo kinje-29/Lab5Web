@@ -35,3 +35,20 @@
 ![7_7.png](Gambar/7_77.png)
 
 
+
+![8.png](Gambar/8.png)
+![8_8.png](Gambar/8_8.png)
+
+
+![9.png](Gambar/9.png)
+![9_9.png](Gambar/9_9.png)
+
+
+
+
+![10.png](Gambar/10.png)
+![10_10.png](Gambar/10_10.png)
+
+
+
+

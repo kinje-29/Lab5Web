@@ -87,18 +87,32 @@
 ![7_7.png](Gambar/7_77.png)
 
 
-
+### Menetukan bilangan ganjil dan genap
 ![8.png](Gambar/8.png)
+
+* hasilnya seperti dibawah
+
 ![8_8.png](Gambar/8_8.png)
 
 
+### Merubah Tampilan Warna dan Teks Warna
 ![9.png](Gambar/9.png)
+
+* Membuat Tombol button dengan onclik="ubahWarnaLB" 
+* Membuat Tombol button dengan onclik="ubahEarnaaLD"
+* memanggil onclik="ubahWarnaLB" kedalam javascrip
+* melakukan eksekusi jika user mengklik `ubahWarnaLB` maka tampilan akan berubah sesuai dengan warna yang telah ditentukan
+
 ![9_9.png](Gambar/9_9.png)
 
 
-
-
+### Membuat Daftar Menu Makanan
 ![10.png](Gambar/10.png)
+
+* Membuat CheckBox dengan id `menu1,menu2,menu3` lalu `onclik="hitung(this)"`
+* Membuat tampilan Total bayar dengan `strong` dengan `id="total"`
+* Memanggil onclik ke dalam javascrip.
+* Membuat variabel `total` dengan tipe var lalu menggambil id `total` yang berada di dalam `stronge`
 ![10_10.png](Gambar/10_10.png)
 
 
@@ -110,8 +124,22 @@
 
 ![11.png](Gambar/11.png)
 ![12.png](Gambar/12.png)
+
+* Membuat class Login
+* Membuat Form dengan method POST lalu onsumbit="validasi()"
+* Membuat Tampilan Nama, Email, Password dan Alamat.
+* Membuat Tombol dengan type `sumbit` dan class `tombol`
+
+#### JavaScrip
+* Memanggil onsumbit `validasi()`.
+* Membuat Variabel disetiap isi di dalam Form seperti nama,email,password,alamat dan memanggil `id(nama) id(email) id(password) id(alamat)`
+* Melakukan Kondisi If dan Else. Jika nama, email, alamat, password tidak kosong maka program akan mengeksekusi yang berada di bawah if dan menampilkan pesan/informasi, namun jikan salah satu dari form tidak di isi maka program akan mengeksekusi bagian else dan menampilkan pesan/informasi
+
+#### CSS Validasi_form
 ![13.png](Gambar/13.png)
 ![14.png](Gambar/14.png)
+
+#### Menampilkan hasil dari HTML/CSS dan JavaScrip
 ![15.png](Gambar/15.png)
 ![16.png](Gambar/16.png)
 ![17.png](Gambar/17.png)

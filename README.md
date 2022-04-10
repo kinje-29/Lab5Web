@@ -1,5 +1,9 @@
 # Pratikum 5 Web
 
+        Nama    : Fajar Firmansyah
+        Nim     : 312010309
+        Kelas   : TI.20.A2
+
 ### Membuat document.write dan console.log
 
 ![1.png](Gambar/1.png)

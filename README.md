@@ -104,3 +104,14 @@
 
 
 
+# Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+
+
+![11.png](Gambar/11.png)
+![12.png](Gambar/12.png)
+![13.png](Gambar/13.png)
+![14.png](Gambar/14.png)
+![15.png](Gambar/15.png)
+![16.png](Gambar/16.png)
+![17.png](Gambar/17.png)
